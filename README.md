@@ -80,6 +80,7 @@
 - [Usage Records API](https://stripe.com/docs/billing/subscriptions/usage-records) – API for tracking customer usage in near real time.
 - [Coupons & Trials](https://stripe.com/docs/billing/subscriptions/trials) – Features for promotions, trial periods, and onboarding offers.
 - [Stripe Migration Tools](https://github.com/stripe/stripe-migrate) – Utilities for migrating subscription data from external platforms.
+- [SaveMyChurn](https://savemychurn.com) – AI-powered churn recovery for Stripe subscriptions. Detects at-risk subscribers and sends personalized retention offers automatically. (savemychurn.com)
 
 ## E-commerce Integrations
 
