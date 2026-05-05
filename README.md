@@ -23,7 +23,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Webhooks & Event Handling](#webhooks--event-handling)
 - [Fraud, Risk & Compliance](#fraud-risk--compliance)
 - [CLI & Developer Tools](#cli--developer-tools)
-- [Open-Source Tools & Libraries](#open-source-tools--libraries)
+- [Open-Source Tools & Libraries](#open-source-tools--libraries)- [@aethex.os/stripe](https://www.npmjs.com/package/@aethex.os/stripe) – Stripe checkout session creation, billing portal, and webhook subscription event handling for Node.js.
 - [UI Components](#ui-components)
 - [Learning Resources](#learning-resources)
 - [Related Awesome Lists](#related-awesome-lists)
