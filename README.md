@@ -108,6 +108,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [3D Secure / SCA](https://stripe.com/docs/strong-customer-authentication) – Authentication requirements for European payment regulations.
 - [Stripe Disputes](https://stripe.com/docs/disputes) – Tools for responding to chargebacks and evidence submission.
 - [PCI Compliance Guide](https://stripe.com/guides/pci-compliance) – Stripe-managed compliance model simplifying card security obligations.
+- [FeeGuard](https://feeguard.dev) – Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 ## CLI & Developer Tools
 
