@@ -101,6 +101,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [stripe-node Webhook Helpers](https://github.com/stripe/stripe-node#webhook-signing) – Node utilities for validating webhook signatures.
 - [DJ-Stripe Webhook Dispatcher](https://github.com/dj-stripe/dj-stripe) – Django integration providing secure webhook parsing.
 - [Serverless Webhooks Sample](https://github.com/stripe-samples/webhooks-node) – Example for building resilient serverless webhook handlers.
+- [stripe-churn-signals](https://github.com/north-metric/stripe-churn-signals) – Node.js webhook listener that flags early churn signals (scheduled cancellations, seat drops, downgrades, final payment failures) into a CSV.
 
 ## Fraud, Risk & Compliance
 
